@@ -1,2 +1,2 @@
-# Linearized-Stokes-Flow
-Numerical method for solving the Stokes Flow problem in serial.
+# Serial-Linearized-Stokes-Flow
+Numerical method for solving the Stokes Flow problem.
