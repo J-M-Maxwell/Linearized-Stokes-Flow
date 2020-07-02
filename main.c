@@ -7,7 +7,7 @@
 
 int main(int argc, char* argv[]) {
 
-		int N; // Number of grid points
+    int N; // Number of grid points
     double mu; // Fluid viscosity
     int P; // Pressure drop
     double omega; // Relaxation coefficient
@@ -28,7 +28,6 @@ int main(int argc, char* argv[]) {
 
     int i, j, iter;
     
-// Declare arrays size at each rank
     double u[N][N];
     double v[N][N-1];
     double p[N-1][N-1];
